@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Chronograph",
+    "price": 249.99555
+  },
+  {
+    "id": 2,
+    "name": "Sport Dive Watch",
+    "price": 179.95
+  },
+  {
+    "id": 3,
+    "name": "Luxury Automatic",
+    "price": 599.99
+  },
+  {
+    "id": 4,
+    "name": "Digital Fitness Tracker",
+    "price": 99.99
+  },
+  {
+    "id": 5,
+    "name": "Smart Watch",
+    "price": 349.99
+  }
+]
